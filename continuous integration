@@ -1,4 +1,20 @@
 
+Pour résumer, voici les grandes étapes de l'intégration continue :
+
+La planification du développement avec la méthode Scrum.
+
+La compilation et l'intégration du code grâce à Maven et Git.
+
+Le lancement automatique des tests unitaires, pour vérifier que le code fonctionne comme prévu.
+
+La mesure de la qualité du code produit, pour vérifier qu'il sera facilement maintenable sur la durée.
+
+La gestion des livrables pour obtenir les artefacts prêts à être déployés en production ou sur l'environnement de test. 
+
+
+================================================================================================================================
+
+
 cycle d'integration continue : 
 
 * planification    Jira, GitLab, Confluence, ALM Octane, Pivotal Tracker.
