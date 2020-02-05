@@ -1,8 +1,16 @@
 
 cycle d'integration continue : 
 
-planification
-compilation
-test
-qualite
-stockage
+* planification    Jira, GitLab, Confluence, ALM Octane, Pivotal Tracker.
+
+* compilation      Git, Subversion, GitHub, GitLab, Perforce, Bitbucket.
+       
+       L'orchestrateur   Jenkins, TeamCity, Azure DevOps, GitLab CI, Concours CI, Travis CI, Bamboo.
+
+       compilation du code Maven, Ant, Gradle, MSBuild, NAnt, Gulp, Grunt.
+
+*test     JUnit, NUnit, XUnit.
+
+*qualite    SonarQube, Cast, GitLab Code Quality.
+
+*stockage  Nexus, Artifactory, GitLab repository, Quay, Docker Hub.
